@@ -1,0 +1,9 @@
+# Carpetas y archivos de configuración varios
+src/.idea
+src/.project
+
+# Configuración del sitio de Drupal
+src/sites/*/settings.php
+
+# Otros
+src/.DS_Store
