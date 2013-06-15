@@ -29,7 +29,7 @@
  *   of sources:
  *   - the contents of other theme hooks that have already been rendered into
  *     HTML. For example, the HTML from theme_breadcrumb() is put into the
- *     $breadcrumb variable of the page.tpl.php template file.
+ *     $breadcrumb variable of the page-front.tpl.php template file.
  *   - raw data provided directly by a module (often pulled from a database)
  *   - a "render element" provided directly by a module. A render element is a
  *     nested PHP array which contains both content and meta data with hints on
@@ -90,7 +90,7 @@
  *
  *   It works by having one preprocess function for each template file or its
  *   derivatives (called theme hook suggestions). For example:
- *     THEME_preprocess_page    alters the variables for page.tpl.php
+ *     THEME_preprocess_page    alters the variables for page-front.tpl.php
  *     THEME_preprocess_node    alters the variables for node.tpl.php or
  *                              for node--forum.tpl.php
  *     THEME_preprocess_comment alters the variables for comment.tpl.php

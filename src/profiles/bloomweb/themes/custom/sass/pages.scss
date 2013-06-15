@@ -8,7 +8,7 @@
  */
 
 @import "base";
-
+$contentMaxWidth: 1200px;
 
 /*
  * Body
@@ -17,9 +17,11 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #page {
+
 }
 
 /*
@@ -45,18 +47,36 @@ body {
  * Header
  */
 
-#header {
-}
-
-#logo { /* Wrapping link for logo */
-  float: left; /* LTR */
-  margin: 0;
-  padding: 0;
-
-  img {
-    vertical-align: bottom;
+#header{
+  background: url(../images/header_bg.jpg) repeat-x;
+  height: 182px;
+  $elementHeight: 79px;
+  $paddingElement: 50px 0 10px 0;
+  .wrapper{
+    max-width: $contentMaxWidth;
+    margin:0 auto;
+  }
+  #logo{
+    padding: $paddingElement;
+    height: $elementHeight;
+    float: left; /* LTR */
+    margin: 0;
+    width:46%;
+    img {
+      max-width: 467px;
+      vertical-align: bottom;
+      width: 100%;
+    }
+  }
+  .leyenda{
+    width: 53%;
+    float: right;
+    padding: $paddingElement;
+    height: $elementHeight;
   }
 }
+
+
 
 #name-and-slogan { /* Wrapper for website name and slogan */
   float: left;
@@ -94,6 +114,102 @@ body {
 
 #main {
 }
+.front{
+  #main{
+    max-width:$contentMaxWidth;
+    margin: 0 auto;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    #content{
+      padding: 0;
+    }
+    .panels-flexible-1{
+      background: black;
+      font-size: 18px;
+
+      font-weight: 400;
+      padding: 1em 1em;
+      color:#b7b7b7;
+      text-align: center;
+      .panel-separator{
+        display: none;
+      }
+      h1{
+        margin-top: 0;
+        margin-bottom:0;
+
+        color: white;
+        text-transform: uppercase;
+        font-weight: 300;
+      }
+    }
+    #block-views-nodequeue-1-block{
+      .field-name-field-texto{
+        position: absolute;
+        width: 32%;
+        height: 100%;
+        right: 0;
+        top: 0;
+        background: url(../../../libraries/superfish/style/custom/images/submenu_bg.png);
+
+      }
+    }
+    #block-views-nodequeue-2-block{
+      ul{
+        padding: 0;
+      }
+      li{
+        list-style: none;
+        float:left;
+        width: 31.3%;
+        padding: 0 1%;
+        margin-bottom: 1em;
+        .field-type-image{
+          text-align: center;
+          img{
+            width: 100%;
+          }
+        }
+        .field-name-title{
+          background: url(../images/servicios_home_bg_corner.png) no-repeat center right;
+          background-repeat: no-repeat;
+          h2{
+            background: url(../images/servicios_home_bg_body.png) repeat-x center right;
+            margin-right: 40px;
+            padding-left: 30px;
+            color: white;
+            font-size: 24px;
+            font-weight: 300;
+            text-transform: uppercase;
+            -webkit-border-top-left-radius: 14px;
+            -webkit-border-bottom-left-radius: 14px;
+            -moz-border-radius-topleft: 14px;
+            -moz-border-radius-bottomleft: 14px;
+            border-top-left-radius: 14px;
+            border-bottom-left-radius: 14px;
+          };
+        }
+        .field field-name-body{
+
+        }
+        a.view-more{
+          background:#add632;
+          display: block;
+          width: 60px;
+          padding: 3px 5px;
+          text-decoration: none;
+          text-align: center;
+          color:white;
+          text-transform: uppercase;
+          web-kit-border-radius: 7px;
+          -moz-border-radius: 7px;
+          border-radius: 7px;
+        }
+      }
+    }
+  }
+}
+
 
 /*
  * Content
@@ -229,6 +345,44 @@ span.field-label { /* The inline field label used by the Fences module */
  */
 
 #footer {
+  background: url(../images/footer_bg.png);
+  height: 143px;
+  width: 100%;
+  #block-system-main-menu{
+    max-width: $contentMaxWidth;
+    margin: 0 auto;
+    text-align: center;
+    .menu{
+      padding: 57px 0 0;
+      margin: 0;
+    }
+    li{
+      display: inline;
+      padding: 0 22px 0 8px;
+      background: url(../images/footer_li.png) no-repeat right 8px;
+      a{
+        color:white;
+        text-decoration: none;
+        text-transform:uppercase;
+        font-weight: 600;
+        font-size: 14px;
+      }
+    }
+    li.last{
+      background: none;
+    }
+
+  }
+  .rights{
+    color:white;
+    max-width: $contentMaxWidth;
+    margin:0 auto;
+    text-align: center;
+    ont-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 5px;
+  }
 }
 
 /*
@@ -236,4 +390,286 @@ span.field-label { /* The inline field label used by the Fences module */
  */
 
 .region-bottom { /* Wrapper for any blocks placed in the page bottom region */
+}
+@media screen and (min-width: 0px) and (max-width: 480px) {
+
+  #header{
+    height: 110px;
+    .wrapper{
+
+    }
+    $elementHeight: 49px;
+    $paddingElement: 25px 0 12px 0;
+    #logo{
+      width:90%;
+      padding: $paddingElement;
+      height:$elementHeight;
+      img {
+
+      }
+    }
+    .leyenda{
+      display:none;
+    }
+  }
+
+
+  .front{
+    h1{
+      font-size: 20px;
+    }
+    .field-name-field-mensaje-de-bienvenida{
+      font-size: 14px;
+    }
+    #main{
+
+      #content{
+      }
+      .panels-flexible-1{
+        padding: 0.5em;
+        .panel-separator{
+        }
+        h1{
+        }
+      }
+      #block-views-nodequeue-2-block{
+        ul{
+        }
+        li{
+          float: none;
+          width: 90%;
+          margin:0 auto;
+          margin-bottom: 1em;
+          .field-type-image{
+            img{
+
+            }
+          }
+          .field-name-title{
+            h2{
+
+            }
+          }
+          .field field-name-body{
+
+          }
+          a.view-more{
+
+          }
+        }
+      }
+    }
+  }
+
+  #footer{
+    .rights{
+      font-size: 10px;
+    }
+    #block-system-main-menu{
+      .menu{
+        padding-top: 25px;
+      }
+      li{
+        padding-left: 2px;
+        padding-right: 14px;
+        a{
+          font-size: 10px;
+        }
+      }
+    }
+  }
+}
+@media screen and (min-width: 481px) and (max-width: 768px)
+{
+  #header{
+    height: 110px;
+    $elementHeight: 49px;
+    $paddingElement: 25px 0 12px 0;
+    #logo{
+      padding: $paddingElement;
+      height:$elementHeight;
+      img {
+
+      }
+    }
+    .leyenda{
+      padding: $paddingElement;
+      height :$elementHeight;
+    }
+  }
+
+
+  .front{
+    h1{
+      font-size: 20px;
+    }
+    .field-name-field-mensaje-de-bienvenida{
+      font-size: 14px;
+    }
+    #main{
+      .panels-flexible-1{
+        padding: 0.5em;
+      }
+      #block-views-nodequeue-2-block{
+        ul{
+        }
+        li{
+          width: 48%;
+          padding: 0 1%;
+          margin-bottom: 1em;
+        }
+      }
+    }
+  }
+
+  #footer{
+    .rights{
+      font-size: 12px;
+    }
+    #block-system-main-menu{
+      .menu{
+        padding-top: 25px;
+      }
+      li{
+        padding-left: 2px;
+        padding-right: 14px;
+        a{
+          font-size: 14px;
+        }
+      }
+    }
+  }
+}
+@media only screen // IPHONE 5
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : landscape){
+  #header{
+    height: 40px;
+    $elementHeight: 28px;
+    $paddingElement: 3px 0 0px 0;
+    .wrapper{
+      margin-top: 10px;
+    }
+    #logo{
+      padding: $paddingElement;
+      height:$elementHeight;
+      float: right;
+      width: 60%;
+      img {
+
+      }
+    }
+    .region-header{
+      clear: none;
+    }
+    .leyenda{
+      padding: $paddingElement;
+      height :$elementHeight;
+    }
+    select{
+      font-size: 10px;
+    }
+    #block-superfish-1{
+      margin-bottom: 0;
+    }
+  }
+
+
+  .front{
+    h1{
+      font-size: 14px;
+    }
+    .field-name-field-mensaje-de-bienvenida{
+      font-size: 11px;
+      line-height: 13px;
+    }
+    #main{
+      padding-top: 0;
+      padding-bottom: 10px;
+      .panels-flexible-1{
+        padding: 0.5em;
+      }
+      #block-views-nodequeue-2-block{
+        ul{
+        }
+        li{
+          width: 48%;
+          float:left;
+          padding: 0 1%;
+          margin-bottom: 1em;
+          font-size: 12px;
+          line-height: 15px;
+          .field-name-title h2{
+            font-size: 11px;
+            line-height: auto;
+            margin-top: 0;
+            margin-bottom: 0;
+            margin-right: 39px;
+          }
+        }
+      }
+    }
+  }
+
+  #footer{
+    .rights{
+      font-size: 5px;
+      img{
+        height: 12px;
+      }
+    }
+    #block-system-main-menu{
+      .menu{
+        padding-top: 25px;
+      }
+      li{
+        padding-left: 3px;
+        padding-right: 3px;
+        background: none;
+        a{
+          font-size: 7px;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 844px) {
+  #block-superfish-1{
+    .sf-menu.sf-style-custom a, .sf-menu.sf-style-custom a:visited {
+      font-size: 13px;
+      padding: 0 5px;
+
+    }
+  }
+  #header{
+    background: url(../images/header_bg.jpg) repeat-x;
+    height: 182px;
+    $elementHeight: 79px;
+    $paddingElement: 50px 0 10px 0;
+    .wrapper{
+      max-width: $contentMaxWidth;
+      margin:0 auto;
+    }
+    #logo{
+      padding: $paddingElement;
+      height: $elementHeight;
+      float: left; /* LTR */
+      margin: 0;
+      width:46%;
+      img {
+        max-width: 467px;
+        vertical-align: bottom;
+        width: 100%;
+      }
+    }
+    .leyenda{
+      width: 53%;
+      float: right;
+      padding: $paddingElement;
+      height: $elementHeight;
+    }
+  }
+
 }

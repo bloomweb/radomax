@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f4f89a4-1077-489a-bf1c-58156b069e29" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/html.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page--front.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/css/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/images (1)/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/images/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/js/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_1col/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_reset/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_devel/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/js/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_format/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/css/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/js/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/css/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/includes/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/js/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/includes/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/plugins/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/plugins/content_types/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/plugins/content_types/dsc/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_exportables_test/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_1col/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_2col/Icon&#13;" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/views/Icon&#13;" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/images/arrow.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/images/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_1col/ds_1col.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_1col/ds_1col.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds_2col.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds_2col.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds_2col_fluid.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds_2col_fluid.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds_3col.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds_3col.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds_3col_equal_width.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds_3col_equal_width.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds_3col_stacked.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds_3col_stacked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds_3col_stacked_equal_width.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds_3col_stacked_equal_width.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds_4col.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds_4col.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_reset/ds_reset.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_reset/ds_reset.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/logo.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/images/preview.png" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/images/preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/.htaccess" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/LICENSE.txt" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/README.txt" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/README.txt" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/README.txt" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/blocks.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/blocks.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/includes/bootstrap.inc" afterPath="$PROJECT_DIR$/src/includes/bootstrap.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/color/color.module" afterPath="$PROJECT_DIR$/src/modules/color/color.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/comments.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/comments.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/includes/common.inc" afterPath="$PROJECT_DIR$/src/includes/common.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/config.rb" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/context/plugins/context_reaction_theme.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/context/plugins/context_reaction_theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/custom.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/custom.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_1col/ds-1col.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_1col/ds-1col.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds-2col-fluid.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds-2col-fluid.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds-2col-stacked-fluid.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds-2col-stacked-fluid.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds-2col-stacked.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds-2col-stacked.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds-2col.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds-2col.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds-3col-equal-width.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds-3col-equal-width.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds-3col-stacked-equal-width.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds-3col-stacked-equal-width.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds-3col-stacked-fluid.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds-3col-stacked-fluid.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds-3col-stacked.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds-3col-stacked.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds-3col.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds-3col.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds-4col.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds-4col.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_reset/ds-reset.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_reset/ds-reset.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/views/ds-row-fields.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/views/ds-row-fields.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/css/ds.admin.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/css/ds.admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/js/ds.admin.js" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/js/ds.admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.api.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.base.test" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.base.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/includes/ds.classes.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/includes/ds.classes.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.contextual.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.contextual.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.displays.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.displays.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/ds.drush.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/ds.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.ds_fields_info.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.ds_fields_info.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.entities.test" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.entities.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.exportables.test" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.exportables.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.field_ui.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.field_ui.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/includes/ds.fields.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/includes/ds.fields.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.forms.test" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.forms.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.install" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.registry.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.registry.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.revision.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/includes/ds.revision.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.search.test" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.search.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/includes/ds.view_modes.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/includes/ds.view_modes.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.views.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/ds.views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.views.test" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds.views.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds_2col-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds_2col-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds_2col.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col/ds_2col.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds_2col_fluid-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds_2col_fluid-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds_2col_fluid.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_fluid/ds_2col_fluid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds_3col-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds_3col-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds_3col.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col/ds_3col.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds_3col_equal_width-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds_3col_equal_width-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds_3col_equal_width.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_equal_width/ds_3col_equal_width.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds_3col_stacked-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds_3col_stacked-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds_3col_stacked.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked/ds_3col_stacked.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds_3col_stacked_equal_width-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds_3col_stacked_equal_width-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds_3col_stacked_equal_width.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_equal_width/ds_3col_stacked_equal_width.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds_4col-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds_4col-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds_4col.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/layouts/ds_4col/ds_4col.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_devel/ds_devel.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_devel/ds_devel.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_devel/ds_devel.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_devel/ds_devel.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_exportables_test/ds_exportables_test.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_exportables_test/ds_exportables_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_exportables_test/ds_exportables_test.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_exportables_test/ds_exportables_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.admin.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/js/ds_extras.admin.js" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/js/ds_extras.admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.ds_fields_info.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.ds_fields_info.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.install" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/js/ds_extras.js" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/js/ds_extras.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/ds_extras.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.pages.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.pages.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.registry.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.registry.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.vd.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_extras/includes/ds_extras.vd.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_format/ds_format.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_format/ds_format.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_format/ds_format.install" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_format/ds_format.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_format/ds_format.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_format/ds_format.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/css/ds_forms.admin.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/css/ds_forms.admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/js/ds_forms.admin.js" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/js/ds_forms.admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/ds_forms.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/ds_forms.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/ds_forms.install" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/ds_forms.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/ds_forms.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_forms/ds_forms.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/includes/ds_search.admin.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/includes/ds_search.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/ds_search.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/ds_search.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/ds_search.install" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/ds_search.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/js/ds_search.js" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/js/ds_search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/ds_search.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/ds_search.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/css/ds_search.theme.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_search/css/ds_search.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_test.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_test.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_test.views_default.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/ds_test.views_default.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/ds_ui.info" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/ds_ui.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/ds_ui.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/modules/ds_ui/ds_ui.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/plugins/content_types/dsc/dsc.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/plugins/content_types/dsc/dsc.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_1col/dstest-1col.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_1col/dstest-1col.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_2col/dstest-2col.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_2col/dstest-2col.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_2col/dstest_2col.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/tests/dstest_2col/dstest_2col.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example-layout.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example-layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/drush/example_layout/example_layout.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/field/field.module" afterPath="$PROJECT_DIR$/src/modules/field/field.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/fields.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/fields.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/fixed-width-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/fixed-width-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/fixed-width.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/fixed-width.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/forms-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/forms-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/forms.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/forms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/system/maintenance-page.tpl.php" afterPath="$PROJECT_DIR$/src/modules/system/maintenance-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/templates/maintenance-page.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/templates/maintenance-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/themes/bartik/templates/maintenance-page.tpl.php" afterPath="$PROJECT_DIR$/src/themes/bartik/templates/maintenance-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/themes/garland/maintenance-page.tpl.php" afterPath="$PROJECT_DIR$/src/themes/garland/maintenance-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/media/templates/media-dialog-page.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/media/templates/media-dialog-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/navigation-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/navigation-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/navigation.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/navigation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/nodes.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/nodes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/normalize-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/normalize-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/normalize.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/block/tests/themes/block_test_theme/page.tpl.php" afterPath="$PROJECT_DIR$/src/modules/block/tests/themes/block_test_theme/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/system/page.tpl.php" afterPath="$PROJECT_DIR$/src/modules/system/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/templates/page.tpl.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/templates/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/themes/bartik/templates/page.tpl.php" afterPath="$PROJECT_DIR$/src/themes/bartik/templates/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/pages-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/pages-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/pages.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/pages.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/pages.scss" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/pages.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/print.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/responsive-sidebars-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/responsive-sidebars-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/responsive-sidebars.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/responsive-sidebars.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/layouts/responsive-sidebars.scss" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/layouts/responsive-sidebars.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/system/system.api.php" afterPath="$PROJECT_DIR$/src/modules/system/system.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/tabs-rtl.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/tabs-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/tabs.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/tabs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/template.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/STARTERKIT/template.php" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/STARTERKIT/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/themes/garland/template.php" afterPath="$PROJECT_DIR$/src/themes/garland/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/themes/seven/template.php" afterPath="$PROJECT_DIR$/src/themes/seven/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/includes/theme.inc" afterPath="$PROJECT_DIR$/src/includes/theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/views/theme/theme.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/views/theme/theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/views/js/views-admin.js" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/views/js/views-admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/views-styles.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/views-styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/views/views.module" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/views/views.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/views/views_plugin_ds_entity_view.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/views/views_plugin_ds_entity_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/views/views_plugin_ds_fields_view.inc" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/modules/ds/views/views_plugin_ds_fields_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/wireframes.css" afterPath="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/wireframes.css" />
+    </list>
+    <ignored path="radomax.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371218541339" ignored="false" />
+    <file path="$PROJECT_DIR$/src/sites/default/settings.php" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371078510767" ignored="false" />
+    <file path="$PROJECT_DIR$/src/sites/default/default.settings.php" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371078510767" ignored="false" />
+    <file path="/page-front.tpl.php" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371078528166" ignored="false" />
+    <file path="/page--front.tpl.php" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371153917228" ignored="false" />
+    <file path="/config.rb" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371140469321" ignored="false" />
+    <file path="/responsive-sidebars.scss" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371155133231" ignored="false" />
+    <file path="/README.txt" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371151923394" ignored="false" />
+    <file path="/pages.scss" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371259254993" ignored="false" />
+    <file path="/page.tpl.php" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371156483644" ignored="false" />
+    <file path="/custom.css" changelist="8f4f89a4-1077-489a-bf1c-58156b069e29" time="1371230299158" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="radomax" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5106529">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="responsive-sidebars.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/layouts/responsive-sidebars.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="214" column="1" selection-start="5478" selection-end="5478" vertical-scroll-proportion="-28.28">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.txt" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/README.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="126" column="0" selection-start="5535" selection-end="5535" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pages.scss" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/pages.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="628" column="24" selection-start="11761" selection-end="11761" vertical-scroll-proportion="0.69952494">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/libraries/superfish/style/custom/custom.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="203" column="68" selection-start="6631" selection-end="6631" vertical-scroll-proportion="-87.5">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="page--front.tpl.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page--front.tpl.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="133" column="0" selection-start="5271" selection-end="5271" vertical-scroll-proportion="1.5706018">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="html.tpl.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/html.tpl.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="94" column="16" selection-start="4904" selection-end="4904" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page.tpl.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="135" column="0" selection-start="5540" selection-end="5540" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page-front.tpl.php" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/config.rb" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page--front.tpl.php" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/custom.info" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/html.tpl.php" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/libraries/superfish/style/custom/custom.css" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/layouts/responsive-sidebars.scss" />
+        <option value="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/pages.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superfish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superfish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superfish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SAMPLES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superfish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radomax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bloomweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superfish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="2c15a349-4b15-45e6-ac7c-7e9e36d6186d">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="68afae3b-47c4-4060-b825-f91f26a0034a">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="745c60bd-1ce8-49f8-b6cc-8d8c1aaf7570">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="d1fb63cc-6fa8-4152-841a-07603f019ad1">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="f5a390dd-7bb9-418f-8480-803b1c533ebb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f4f89a4-1077-489a-bf1c-58156b069e29" name="Default" comment="" />
+      <created>1371075641601</created>
+      <updated>1371075641601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17449306" sideWeight="0.6702356" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/css/layouts/responsive-sidebars.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0055866" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/zen/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="28" selection-start="5422" selection-end="5422" vertical-scroll-proportion="0.11574074" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/custom.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="2532" selection-end="2532" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="11" selection-start="859" selection-end="859" vertical-scroll-proportion="0.8324022" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page--front.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="0" selection-start="5271" selection-end="5271" vertical-scroll-proportion="1.5706018">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/html.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="16" selection-start="4904" selection-end="4904" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="0" selection-start="5540" selection-end="5540" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/libraries/superfish/style/custom/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="68" selection-start="6631" selection-end="6631" vertical-scroll-proportion="-87.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="41" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.7174393">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/templates/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="34" selection-end="34" vertical-scroll-proportion="0.08278146">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="0" selection-start="5535" selection-end="5535" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/layouts/responsive-sidebars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="214" column="1" selection-start="5478" selection-end="5478" vertical-scroll-proportion="-28.28">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/bloomweb/themes/custom/sass/pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="628" column="24" selection-start="11761" selection-end="11761" vertical-scroll-proportion="0.69952494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -32,7 +32,7 @@
  * - $secondary_menu_heading: The title of the menu used by the secondary links.
  * - $breadcrumb: The breadcrumb trail for the current page.
  *
- * Page content (in order of occurrence in the default page.tpl.php):
+ * Page content (in order of occurrence in the default page-front.tpl.php):
  * - $title_prefix (array): An array containing additional output populated by
  *   modules, intended to be displayed in front of the main title tag that
  *   appears in the template.

@@ -1132,18 +1132,18 @@ function theme_views_container($variables) {
  *
  * View, named foobar. Style: unformatted. Row style: Fields. Display: Page.
  *
- * - views-view--foobar--page.tpl.php
- * - views-view--page.tpl.php
+ * - views-view--foobar--page-front.tpl.php
+ * - views-view--page-front.tpl.php
  * - views-view--foobar.tpl.php
  * - views-view.tpl.php
  *
- * - views-view-unformatted--foobar--page.tpl.php
- * - views-view-unformatted--page.tpl.php
+ * - views-view-unformatted--foobar--page-front.tpl.php
+ * - views-view-unformatted--page-front.tpl.php
  * - views-view-unformatted--foobar.tpl.php
  * - views-view-unformatted.tpl.php
  *
- * - views-view-fields--foobar--page.tpl.php
- * - views-view-fields--page.tpl.php
+ * - views-view-fields--foobar--page-front.tpl.php
+ * - views-view-fields--page-front.tpl.php
  * - views-view-fields--foobar.tpl.php
  * - views-view-fields.tpl.php
  *

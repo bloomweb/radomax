@@ -6,28 +6,25 @@
  * miscellaneous Drupal elements that appear in the $content variable, such as
  * ul.links, .pager, .more-link, etc.
  */
-
-
 /*
  * Body
  */
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000317}}
 body {
   margin: 0;
   padding: 0;
-}
-
-#page {
+  font-family: 'Open Sans', sans-serif;
 }
 
 /*
  * The skip-link link will be completely hidden until a user tabs to the link.
  * See the element-focusable rule in system.base.css.
  */
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000332}}
 #skip-link {
   margin: 0;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000336}}
 #skip-link a,
 #skip-link a:visited {
   display: block;
@@ -41,70 +38,191 @@ body {
 /*
  * Header
  */
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000350}}
 #header {
+  background: url(../images/header_bg.jpg) repeat-x;
+  height: 182px;
 }
-
-#logo { /* Wrapping link for logo */
-  float: left; /* LTR */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000355}}
+#header .wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000359}}
+#header #logo {
+  padding: 50px 0 10px 0;
+  height: 79px;
+  float: left;
+  /* LTR */
   margin: 0;
-  padding: 0;
+  width: 46%;
 }
-#logo img {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000365}}
+#header #logo img {
+  max-width: 467px;
   vertical-align: bottom;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000371}}
+#header .leyenda {
+  width: 53%;
+  float: right;
+  padding: 50px 0 10px 0;
+  height: 79px;
 }
 
-#name-and-slogan { /* Wrapper for website name and slogan */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000381}}
+#name-and-slogan {
+  /* Wrapper for website name and slogan */
   float: left;
 }
 
-#site-name { /* The name of the website */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000385}}
+#site-name {
+  /* The name of the website */
   margin: 0;
   font-size: 2em;
   line-height: 1.5em;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000391}}
 #site-name a:link,
 #site-name a:visited {
   color: #000;
   text-decoration: none;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\0000397}}
 #site-name a:hover,
 #site-name a:focus {
   text-decoration: underline;
 }
 
-#site-slogan { /* The slogan (or tagline) of a website */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003102}}
+#site-slogan {
+  /* The slogan (or tagline) of a website */
   margin: 0;
   font-size: 1em;
 }
 
-.region-header { /* Wrapper for any blocks placed in the header region */
-  clear: both; /* Clear the logo */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003107}}
+.region-header {
+  /* Wrapper for any blocks placed in the header region */
+  clear: both;
+  /* Clear the logo */
 }
 
 /*
  * Main (container for everything else)
  */
-
-#main {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003118}}
+.front #main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003123}}
+.front #main #content {
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003126}}
+.front #main .panels-flexible-1 {
+  background: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 1em 1em;
+  color: #b7b7b7;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003134}}
+.front #main .panels-flexible-1 .panel-separator {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003137}}
+.front #main .panels-flexible-1 h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003147}}
+.front #main #block-views-nodequeue-1-block .field-name-field-texto {
+  position: absolute;
+  width: 32%;
+  height: 100%;
+  right: 0;
+  top: 0;
+  background: url(../../../libraries/superfish/style/custom/images/submenu_bg.png);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003158}}
+.front #main #block-views-nodequeue-2-block ul {
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003161}}
+.front #main #block-views-nodequeue-2-block li {
+  list-style: none;
+  float: left;
+  width: 31.3%;
+  padding: 0 1%;
+  margin-bottom: 1em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003167}}
+.front #main #block-views-nodequeue-2-block li .field-type-image {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003169}}
+.front #main #block-views-nodequeue-2-block li .field-type-image img {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003173}}
+.front #main #block-views-nodequeue-2-block li .field-name-title {
+  background: url(../images/servicios_home_bg_corner.png) no-repeat center right;
+  background-repeat: no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003176}}
+.front #main #block-views-nodequeue-2-block li .field-name-title h2 {
+  background: url(../images/servicios_home_bg_body.png) repeat-x center right;
+  margin-right: 40px;
+  padding-left: 30px;
+  color: white;
+  font-size: 24px;
+  font-weight: 300;
+  text-transform: uppercase;
+  -webkit-border-top-left-radius: 14px;
+  -webkit-border-bottom-left-radius: 14px;
+  -moz-border-radius-topleft: 14px;
+  -moz-border-radius-bottomleft: 14px;
+  border-top-left-radius: 14px;
+  border-bottom-left-radius: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003195}}
+.front #main #block-views-nodequeue-2-block li a.view-more {
+  background: #add632;
+  display: block;
+  width: 60px;
+  padding: 3px 5px;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  web-kit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
 }
 
 /*
  * Content
  */
-
-#content {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003224}}
+.breadcrumb {
+  /* The path to the current page in the form of a list of links */
 }
-
-.region-highlighted {
-}
-
-.breadcrumb { /* The path to the current page in the form of a list of links */
-}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003225}}
 .breadcrumb ol {
   margin: 0;
   padding: 0;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003229}}
 .breadcrumb li {
   display: inline;
   list-style-type: none;
@@ -112,88 +230,135 @@ body {
   padding: 0;
 }
 
-h1.title, /* The title of the page */
-h2.node-title, /* Title of a piece of content when it is given in a list of content */
-h2.block-title, /* Block title */
-h2.title, /* Comment section heading */
-h2.comment-form, /* Comment form heading */
-h3.title { /* Comment title */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003242}}
+h1.title,
+h2.node-title,
+h2.block-title,
+h2.title,
+h2.comment-form,
+h3.title {
+  /* Comment title */
   margin: 0;
 }
 
-tr.even { /* Some tables have rows marked even or odd. */
-  /* background-color: #eee; */ /* Drupal core uses a #eee background */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003246}}
+tr.even {
+  /* Some tables have rows marked even or odd. */
+  /* background-color: #eee; */
+  /* Drupal core uses a #eee background */
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003250}}
 tr.odd {
-  /* background-color: #eee; */ /* Drupal core uses a #eee background */
+  /* background-color: #eee; */
+  /* Drupal core uses a #eee background */
 }
 
-div.messages { /* Important messages (status, warning, and error) for the user. See also the declarations in messages.css. */
-  margin: 1.5em 0; /* Drupal core uses "6px 0" margin */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003254}}
+div.messages {
+  /* Important messages (status, warning, and error) for the user. See also the declarations in messages.css. */
+  margin: 1.5em 0;
+  /* Drupal core uses "6px 0" margin */
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003257}}
 div.messages ul {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-div.status { /* Normal priority messages */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003263}}
+div.status {
+  /* Normal priority messages */
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003267}}
 div.warning,
-tr.warning { /* Medium priority messages */
-  /* border: 1px solid #f0c020; */ /* Drupal core uses: 1px solid #f0c020 */
+tr.warning {
+  /* Medium priority messages */
+  /* border: 1px solid #f0c020; */
+  /* Drupal core uses: 1px solid #f0c020 */
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003272}}
 div.error,
-tr.error { /* High priority messages. See also the .error declaration below. */
+tr.error {
+  /* High priority messages. See also the .error declaration below. */
 }
 
-.error { /* Errors that are separate from div.messages status messages. */
-  /* color: #e55; */ /* Drupal core uses a #e55 background */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003275}}
+.error {
+  /* Errors that are separate from div.messages status messages. */
+  /* color: #e55; */
+  /* Drupal core uses a #e55 background */
 }
 
-.warning { /* Warnings that are separate from div.messages status messages. */
-  /* color: #e09010; */ /* Drupal core uses a #e09010 background */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003279}}
+.warning {
+  /* Warnings that are separate from div.messages status messages. */
+  /* color: #e09010; */
+  /* Drupal core uses a #e09010 background */
 }
 
-.tabs { /* See also the tabs.css file. */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003283}}
+.tabs {
+  /* See also the tabs.css file. */
 }
 
-.region-help { /* Help text on a page */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003286}}
+.region-help {
+  /* Help text on a page */
 }
 
-.more-help-link { /* Link to more help */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003289}}
+.more-help-link {
+  /* Link to more help */
 }
 
-.region-content { /* Wrapper for the actual page content */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003292}}
+.region-content {
+  /* Wrapper for the actual page content */
 }
 
-ul.inline { /* List of links generated by theme_links() */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003295}}
+ul.inline {
+  /* List of links generated by theme_links() */
   display: inline;
   padding: 0;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003299}}
 ul.inline li {
   display: inline;
   list-style-type: none;
-  padding: 0 1em 0 0; /* LTR */
+  padding: 0 1em 0 0;
+  /* LTR */
 }
 
-span.field-label { /* The inline field label used by the Fences module */
-  padding: 0 1em 0 0; /* LTR */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003305}}
+span.field-label {
+  /* The inline field label used by the Fences module */
+  padding: 0 1em 0 0;
+  /* LTR */
 }
 
-.item-list .pager { /* A list of page numbers when more than 1 page of content is available */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003309}}
+.item-list .pager {
+  /* A list of page numbers when more than 1 page of content is available */
   padding: 0;
 }
-.item-list .pager li { /* Each page number in the pager list */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003312}}
+.item-list .pager li {
+  /* Each page number in the pager list */
   padding: 0 0.5em;
 }
 
-.feed-icon { /* The link to the RSS or Atom feed for the current list of content */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003317}}
+.feed-icon {
+  /* The link to the RSS or Atom feed for the current list of content */
 }
 
-.more-link { /* Aggregator, blog, and forum more link */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003320}}
+.more-link {
+  /* Aggregator, blog, and forum more link */
 }
 
 /*
@@ -202,30 +367,307 @@ span.field-label { /* The inline field label used by the Fences module */
  * Remember to NOT add padding or margin to your .region-sidebar-first
  * (see the layout.css file.)
  */
-
-.region-sidebar-first {
-}
-
 /*
  * Second sidebar (on right in LTR languages, on left in RTL)
  *
  * Remember to NOT add padding or margin to your .region-sidebar-second
  * (see the layout.css file.)
  */
-
-.region-sidebar-second {
-}
-
 /*
  * Footer
  */
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003347}}
 #footer {
+  background: url(../images/footer_bg.png);
+  height: 143px;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003351}}
+#footer #block-system-main-menu {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003355}}
+#footer #block-system-main-menu .menu {
+  padding: 57px 0 0;
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003359}}
+#footer #block-system-main-menu li {
+  display: inline;
+  padding: 0 22px 0 8px;
+  background: url(../images/footer_li.png) no-repeat right 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003363}}
+#footer #block-system-main-menu li a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003371}}
+#footer #block-system-main-menu li.last {
+  background: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003376}}
+#footer .rights {
+  color: white;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  ont-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 5px;
 }
 
 /*
  * Page bottom
  */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003392}}
+.region-bottom {
+  /* Wrapper for any blocks placed in the page bottom region */
+}
 
-.region-bottom { /* Wrapper for any blocks placed in the page bottom region */
+@media screen and (min-width: 0px) and (max-width: 480px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003396}}
+  #header {
+    height: 110px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003403}}
+  #header #logo {
+    width: 90%;
+    padding: 25px 0 12px 0;
+    height: 49px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003411}}
+  #header .leyenda {
+    display: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003418}}
+  .front h1 {
+    font-size: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003421}}
+  .front .field-name-field-mensaje-de-bienvenida {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003428}}
+  .front #main .panels-flexible-1 {
+    padding: 0.5em;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003438}}
+  .front #main #block-views-nodequeue-2-block li {
+    float: none;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003465}}
+  #footer .rights {
+    font-size: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003469}}
+  #footer #block-system-main-menu .menu {
+    padding-top: 25px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003472}}
+  #footer #block-system-main-menu li {
+    padding-left: 2px;
+    padding-right: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003475}}
+  #footer #block-system-main-menu li a {
+    font-size: 10px;
+  }
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003484}}
+  #header {
+    height: 110px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003488}}
+  #header #logo {
+    padding: 25px 0 12px 0;
+    height: 49px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003495}}
+  #header .leyenda {
+    padding: 25px 0 12px 0;
+    height: 49px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003503}}
+  .front h1 {
+    font-size: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003506}}
+  .front .field-name-field-mensaje-de-bienvenida {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003510}}
+  .front #main .panels-flexible-1 {
+    padding: 0.5em;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003516}}
+  .front #main #block-views-nodequeue-2-block li {
+    width: 48%;
+    padding: 0 1%;
+    margin-bottom: 1em;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003526}}
+  #footer .rights {
+    font-size: 12px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003530}}
+  #footer #block-system-main-menu .menu {
+    padding-top: 25px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003533}}
+  #footer #block-system-main-menu li {
+    padding-left: 2px;
+    padding-right: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003536}}
+  #footer #block-system-main-menu li a {
+    font-size: 14px;
+  }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003547}}
+  #header {
+    height: 40px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003551}}
+  #header .wrapper {
+    margin-top: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003554}}
+  #header #logo {
+    padding: 3px 0 0px 0;
+    height: 28px;
+    float: right;
+    width: 60%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003563}}
+  #header .region-header {
+    clear: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003566}}
+  #header .leyenda {
+    padding: 3px 0 0px 0;
+    height: 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003570}}
+  #header select {
+    font-size: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003573}}
+  #header #block-superfish-1 {
+    margin-bottom: 0;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003580}}
+  .front h1 {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003583}}
+  .front .field-name-field-mensaje-de-bienvenida {
+    font-size: 11px;
+    line-height: 13px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003587}}
+  .front #main {
+    padding-top: 0;
+    padding-bottom: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003590}}
+  .front #main .panels-flexible-1 {
+    padding: 0.5em;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003596}}
+  .front #main #block-views-nodequeue-2-block li {
+    width: 48%;
+    float: left;
+    padding: 0 1%;
+    margin-bottom: 1em;
+    font-size: 12px;
+    line-height: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003603}}
+  .front #main #block-views-nodequeue-2-block li .field-name-title h2 {
+    font-size: 11px;
+    line-height: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 39px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003616}}
+  #footer .rights {
+    font-size: 5px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003618}}
+  #footer .rights img {
+    height: 12px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003623}}
+  #footer #block-system-main-menu .menu {
+    padding-top: 25px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003626}}
+  #footer #block-system-main-menu li {
+    padding-left: 3px;
+    padding-right: 3px;
+    background: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003630}}
+  #footer #block-system-main-menu li a {
+    font-size: 7px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 844px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003640}}
+  #block-superfish-1 .sf-menu.sf-style-custom a, #block-superfish-1 .sf-menu.sf-style-custom a:visited {
+    font-size: 13px;
+    padding: 0 5px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003646}}
+  #header {
+    background: url(../images/header_bg.jpg) repeat-x;
+    height: 182px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003651}}
+  #header .wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003655}}
+  #header #logo {
+    padding: 50px 0 10px 0;
+    height: 79px;
+    float: left;
+    /* LTR */
+    margin: 0;
+    width: 46%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003661}}
+  #header #logo img {
+    max-width: 467px;
+    vertical-align: bottom;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/radomax\/src\/profiles\/bloomweb\/themes\/custom\/sass\/pages\.scss}line{font-family:\00003667}}
+  #header .leyenda {
+    width: 53%;
+    float: right;
+    padding: 50px 0 10px 0;
+    height: 79px;
+  }
 }

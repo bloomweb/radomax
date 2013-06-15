@@ -34,14 +34,14 @@ class context_reaction_theme extends context_reaction {
       '#title' => t('Theme variables'),
       'title' => array(
         '#title' => t('Section title'),
-        '#description' => t('Provides this text as a <strong>$section_title</strong> variable for display in page.tpl.php when this context is active.'),
+        '#description' => t('Provides this text as a <strong>$section_title</strong> variable for display in page-front.tpl.php when this context is active.'),
         '#type' => 'textfield',
         '#maxlength' => 255,
         '#default_value' => isset($values['title']) ? $values['title'] : '',
       ),
       'subtitle' => array(
         '#title' => t('Section subtitle'),
-        '#description' => t('Provides this text as a <strong>$section_subtitle</strong> variable for display in page.tpl.php when this context is active.'),
+        '#description' => t('Provides this text as a <strong>$section_subtitle</strong> variable for display in page-front.tpl.php when this context is active.'),
         '#type' => 'textfield',
         '#maxlength' => 255,
         '#default_value' => isset($values['subtitle']) ? $values['subtitle'] : '',
